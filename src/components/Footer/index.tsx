@@ -89,8 +89,8 @@ const Footer = () => {
             </h4>
             <div className="flex gap-6">
               {[
-                { Icon: FaInstagram, label: "Instagram", href: "#" },
-                { Icon: FaTiktok, label: "TikTok", href: "#" }
+                { Icon: FaInstagram, label: "Instagram", href: "https://www.instagram.com/gadogadokaliurang/" },
+                { Icon: FaTiktok, label: "TikTok", href: "https://www.tiktok.com/@gadogadokaliurang?is_from_webapp=1&sender_device=pc" }
               ].map((platform) => (
                 <motion.a
                   key={platform.label}
