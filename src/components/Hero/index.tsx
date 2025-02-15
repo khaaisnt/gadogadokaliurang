@@ -3,6 +3,7 @@
 import Image from "next/image";
 import { motion } from "framer-motion";
 import { ArrowRight } from "lucide-react";
+import HeroImg from "../../../public/HeroImage.jpg"
 
 export default function Hero() {
   return (
@@ -15,7 +16,7 @@ export default function Hero() {
         transition={{ duration: 1.5 }}
       >
         <Image
-          src="/HeroImage.jpg"
+          src={HeroImg}
           alt="Gado-gado dish"
           layout="fill"
           objectFit="cover"
