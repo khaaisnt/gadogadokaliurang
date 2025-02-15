@@ -71,7 +71,7 @@ const Footer = () => {
               </a>
               <div className="flex items-center gap-3">
                 <FaMapMarkerAlt className="text-green-300" />
-                <span>Jl. Kaliurang No. 123, Yogyakarta</span>
+                <span>Jl. Melati No. 44, Malang, Lowokwaru, Jawa Timur</span>
               </div>
             </div>
           </motion.div>
