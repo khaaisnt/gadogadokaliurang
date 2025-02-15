@@ -91,7 +91,7 @@ const Footer = () => {
               {[
                 { Icon: FaInstagram, label: "Instagram", href: "#" },
                 { Icon: FaTiktok, label: "TikTok", href: "#" }
-              ].map((platform, index) => (
+              ].map((platform) => (
                 <motion.a
                   key={platform.label}
                   href={platform.href}
