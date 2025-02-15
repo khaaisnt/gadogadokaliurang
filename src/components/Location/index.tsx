@@ -94,8 +94,6 @@ export default function Location() {
               height="500"
               frameBorder="0"
               scrolling="no"
-              marginHeight="0"
-              marginWidth="0"
               src="https://maps.google.com/maps?width=100%25&amp;height=500&amp;hl=en&amp;q=Jalan%20Melati%20No.%2044,%20Malang,%20Lowokwaru,%20Jawa%20Timur+(Gado%20-%20Gado%20Kaliurang)&amp;t=&amp;z=18&amp;ie=UTF8&amp;iwloc=B&amp;output=embed"
               className="w-full h-[400px] md:h-[500px]"
             >
