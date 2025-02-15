@@ -17,24 +17,24 @@ const menuItems = {
     },
     {
       name: "Rujak Manis",
-      image: "/RujakManis.jpg",
+      image: "/rujak-manis.jpg",
       description: "Kombinasi buah-buahan segar dengan siraman bumbu kacang manis pedas yang menyegarkan"
     },
   ],
   minuman: [
     {
       name: "Es Dawet",
-      image: "/EsDawet.jpg",
+      image: "/es-dawet.jpg",
       description: "Minuman tradisional dengan cendol hijau, santan segar, dan gula merah yang menyegarkan"
     },
     {
       name: "Es Campur",
-      image: "/EsCampur.jpg",
+      image: "/es-campur.jpg",
       description: "Racikan es dengan berbagai macam bahan seperti kolang-kaling, cincau, dan buah-buahan dengan sirup manis"
     },
     {
       name: "Es Cao",
-      image: "/EsCao.jpg",
+      image: "/es-cao.jpg",
       description: "Minuman segar dengan cincau hitam, susu, dan sirup yang menyegarkan di cuaca panas"
     },
   ]
