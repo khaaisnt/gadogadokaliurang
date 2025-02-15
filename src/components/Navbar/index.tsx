@@ -137,7 +137,7 @@ export default function Navbar() {
                   }
                 }}
               >
-                {["Menu", "Lokasi", "Kontak"].map((item, index) => (
+                {["Menu", "Lokasi", "Kontak"].map((item) => (
                   <motion.li
                     key={item}
                     variants={{
