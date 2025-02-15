@@ -3,7 +3,7 @@
 import Image from "next/image";
 import { motion } from "framer-motion";
 import { ArrowRight } from "lucide-react";
-import HeroImg from "../../../public/HeroImage.jpg";
+import HeroImg from "../../../public/HeroPicture.jpg";
 
 export default function Hero() {
   return (
