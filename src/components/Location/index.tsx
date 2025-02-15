@@ -4,7 +4,7 @@ import { motion } from "framer-motion"
 
 export default function Location() {
   return (
-    <section id="location" className="relative py-16 px-3 md:px-28 bg-white overflow-hidden">
+    <section id="lokasi" className="relative py-16 px-3 md:px-28 bg-white overflow-hidden">
       {/* Decorative Shapes */}
       <motion.div 
         className="absolute top-10 left-10 w-24 h-24 bg-[#73a553]/20 rounded-full"
